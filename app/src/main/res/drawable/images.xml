@@ -1,0 +1,4 @@
+<level-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/elephant" android:maxLevel="1"/>
+    <item android:drawable="@drawable/rabbits" android:maxLevel="2"/>
+</level-list>
